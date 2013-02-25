@@ -1,0 +1,8 @@
+name: NoNicknames
+main: me.blha303.NoNicknames
+version: 1
+author: blha303
+commands:
+    nick:
+        description: No nicknames!
+        usage: /nick
